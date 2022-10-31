@@ -131,7 +131,7 @@ input,button{
 }
 
 /* Completed */
-ul#completed-task-list .task-label {
+.task-list#completed-task-list .task-label {
   text-decoration: line-through
   color: #888;
 }
