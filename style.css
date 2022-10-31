@@ -29,6 +29,14 @@
   width: 500px;
   margin: 0 auto 0;
 }
+
+#new-task-section {
+  margin-block-start: 1em;
+  margin-block-end: 1em;
+  margin-inline-start: 0px;
+  margin-inline-end: 0px;
+}
+
 .task {
   width: 56%;
   display: inline-block;
