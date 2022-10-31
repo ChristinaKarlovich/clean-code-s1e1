@@ -17,7 +17,7 @@
   font-family: Fantasy, cursive;
 }
 
-@media (max-width:768px) {
+@media (max-width: 768px) {
 
   .more-info-wrapper { 
     text-align: center;
