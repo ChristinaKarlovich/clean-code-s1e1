@@ -18,9 +18,11 @@
 }
 
 @media (max-width:768px) {
+
   .more-info-wrapper { 
     text-align: center;
   }
+
 }
 .main-page-wrapper {
   display: block;
